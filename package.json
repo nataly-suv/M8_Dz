@@ -1,0 +1,18 @@
+{
+  "name": "m8_dz",
+  "version": "1.0.0",
+  "description": "my homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nataly",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "pg": "^8.13.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
